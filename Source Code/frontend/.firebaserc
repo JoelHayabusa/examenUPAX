@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "testfirebase-deec8": {
+      "hosting": {
+        "AngularApp": [
+          "testfirebase-deec8"
+        ]
+      }
+    }
+  }
+}
